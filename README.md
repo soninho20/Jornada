@@ -1,1 +1,3 @@
 # Jornada
+
+contador simples
