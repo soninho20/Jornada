@@ -1,0 +1,24 @@
+body{
+    align-items: center;
+    text-align: center;
+}
+
+#cx{
+    
+    display: flex;
+    align-items: center;
+    width: 70px;
+    position: absolute;
+    left: 48%;
+}
+
+button{
+    width: 25px;
+    height: 20px;
+    margin: 2px;
+    border-radius: 6px;
+}
+
+.red{
+    color: red;
+}
