@@ -1,3 +1,3 @@
 # Jornada
 
-contador simples
+projetos ainda em desenvolvimento
