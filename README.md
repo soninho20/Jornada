@@ -1,3 +1,3 @@
 # Jornada
 
-projetos ainda em desenvolvimento
+projetos ainda em desenvolvimento e iniciais
